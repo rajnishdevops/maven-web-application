@@ -22,8 +22,8 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		
-<sonar.host.url>http://13.233.124.155:900/</sonar.host.url>
-		<sonar.login>squ_9c906b29d974e372f0356b88110fc814dba5ca9c</sonar.login>
+<sonar.host.url>http://65.1.64.233:9000/</sonar.host.url>
+		<sonar.login>squ_bc00fff28ff0b6b6f9776848c220419050872cd6</sonar.login>
 		<!--
 <sonar.login>admin</sonar.login>
 		<sonar.password>Aws@ec2-user</sonar.password>
