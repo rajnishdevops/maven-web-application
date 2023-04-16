@@ -23,8 +23,8 @@
 		<log4j.version>1.2.17</log4j.version>
 		
 
-<sonar.host.url>http://65.2.178.101:9000/</sonar.host.url>
-		<sonar.login>squ_bc00fff28ff0b6b6f9776848c220419050872cd6</sonar.login>
+<sonar.host.url>http://3.111.57.7:9000/</sonar.host.url>
+		<sonar.login>squ_5eca948c4b63845f270c0ae391988abfdae712c5</sonar.login>
 		<!--
 <sonar.login>admin</sonar.login>
 		<sonar.password>Aws@ec2-user</sonar.password>
